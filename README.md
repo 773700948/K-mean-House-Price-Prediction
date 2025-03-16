@@ -1,5 +1,9 @@
 # K-mean-House-Price-Prediction
 
+changes on the second branch
+
+version 12 of out project
+
 ## Housing Data Analysis Notebook
 This Jupyter Notebook contains code for analyzing and visualizing housing data. The notebook uses Python and popular data analysis libraries such as pandas and matplotlib to load, explore, and visualize the dataset.
 
